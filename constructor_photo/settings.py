@@ -25,7 +25,7 @@ SECRET_KEY = 'hiz=@3dv*5@-lzxjlmstfhbvu9lq(g0ynek^xy2ug67fqoy61c'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1']
+ALLOWED_HOSTS = ['http://ca-backend.std-692.ist.mospolytech.ru/','127.0.0.1']
 
 
 # Application definition
